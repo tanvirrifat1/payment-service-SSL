@@ -22,7 +22,6 @@ const initPayment = async (payload: any) => {
       cus_name: payload.cus_name,
       cus_email: payload.cus_email,
       cus_add1: payload.cus_add1,
-      cus_add2: payload.cus_add2,
       cus_city: "Dhaka",
       cus_state: "Dhaka",
       cus_postcode: "1000",
